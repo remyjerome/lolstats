@@ -1,0 +1,4 @@
+services:
+#    lol_stats.example:
+#        class: LolStatsBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]

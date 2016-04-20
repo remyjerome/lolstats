@@ -1,0 +1,6 @@
+lol_stats:
+    resource: "@LolStatsBundle/Resources/config/routing.yml"
+    prefix:   /
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

@@ -1,0 +1,6 @@
+lol_stats_home:
+    path:     /
+    defaults: { _controller: LolStatsBundle:Default:index }
+lol_stats_sum:
+    path:       /summoner
+    defaults:   { _controller: LolStatsBundle:Default:summoner }
